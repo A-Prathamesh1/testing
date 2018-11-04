@@ -7,5 +7,6 @@ public class Myclass{
 
 }//observing the changes to trigger jenkins build
 //these are the changes I am making.
+//Another change in the  code 
 }
 
